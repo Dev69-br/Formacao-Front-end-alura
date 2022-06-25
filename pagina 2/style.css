@@ -229,3 +229,22 @@ form label, form p{
         position: static;
     }
 }
+
+@media screen and (max-width: 400px) {
+    header,main,.produtos,img,footer{
+        width: 100%;
+        
+    }
+
+    p{
+        font-size: 10px;
+    }
+
+    footer p{
+        font-size: 10px;
+    }
+
+    main > li > p{
+        font-size: 10px;
+    }
+}
