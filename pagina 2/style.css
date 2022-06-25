@@ -78,3 +78,24 @@ nav  a:hover{
 .produtos li:hover h2{
     font-size: 40px;
 }
+
+footer{
+    
+    background: darkgray;
+}
+
+footer img{
+    width: 200px;
+    text-align: left;
+}
+
+footer p{
+    display: inline-block;
+    font-size: 40px;
+    width: 55%;
+    margin-left: 40%;
+    vertical-align: top;
+    margin-top: -8%;
+    
+
+}
